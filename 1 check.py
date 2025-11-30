@@ -5,3 +5,9 @@ print(books["The Hobbit"])
 print(books["The Alchemist"])
 print(books["1984"])
 print(books["Pride and Prejudice"])
+
+J.K. Rowling
+J.R.R. Tolkien
+Paulo Coelho
+George Orwell
+Jane Austen
